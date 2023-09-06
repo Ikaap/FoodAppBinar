@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">FoodAppBinar</string>
+    <string name="app_name" translatable="false">FoodAppBinar</string>
+    <string name="text_header_hello">Hi Binarian!</string>
+    <string name="text_header_greeting">It\'s lunch time</string>
+    <string name="text_banner_desc">Get Special Discount</string>
+    <string name="text_banner_discount">up to 75%</string>
+    <string name="text_banner_claim_vocher">Claim Vocher</string>
+    <string name="text_categories">Categories</string>
+    <string name="text_show_all">Show all</string>
+    <string name="text_recommended">Recommended</string>
+    <string name="text_idr">IDR</string>
 </resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodAppBinar</string>
+    <string name="text_header_hello">Hai Binarian!</string>
+    <string name="text_header_greeting">Sudah waktunya makan siang</string>
+    <string name="text_banner_desc">Dapatkan Diskon Khusus</string>
+    <string name="text_banner_discount">hingga 75%</string>
+    <string name="text_banner_claim_vocher">klaim vocher</string>
+    <string name="text_categories">Kategori</string>
+    <string name="text_show_all">Tunjukan semua</string>
+    <string name="text_recommended">Direkomendasikan</string>
+    <string name="text_idr">Rp</string>
+</resources>
