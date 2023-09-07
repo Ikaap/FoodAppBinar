@@ -45,7 +45,7 @@ object MenuData {
     val listDataMenu : ArrayList<Menu>
         get() {
             val listMenu = arrayListOf<Menu>()
-            for (position in MenuData.menuName.indices){
+            for (position in menuName.indices){
                 val dataMenu = Menu()
                 dataMenu.image = menuImage[position]
                 dataMenu.name = menuName[position]

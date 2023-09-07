@@ -2,6 +2,7 @@ package com.ikapurwanti.foodappbinar
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.ikapurwanti.foodappbinar.adapter.CategoriesAdapter
 import com.ikapurwanti.foodappbinar.adapter.MenuAdapter
@@ -27,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         showRecyclerCategories()
 
         showRecyclerMenu()
+
     }
 
     private fun showRecyclerMenu() {
